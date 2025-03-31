@@ -1,0 +1,1 @@
+Este script em C# é uma adaptação do código Python desenvolvido pelo SERPRO, com o objetivo de oferecer uma solução equivalente em uma linguagem diferente, proporcionando mais opções para integração e utilização em diversos ambientes.
