@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Calculo de numeros
+    
+using System;
 namespace Programa
 {
     class Program
